@@ -1,0 +1,1 @@
+Using Guice's DI injector to choose a runtime implementation of `Greeter` (`EnglishGreeter`, `SpanishGreeter`) based on the contents of `application.properties`'s `settings.language` property.
